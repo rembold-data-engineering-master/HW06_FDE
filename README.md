@@ -1,10 +1,10 @@
 # Homework 6
-Contained within this repository is a single zip file, which when uncompressed contains a database dump. You restore that database to your personal system by running:
+Contained within this repository is a zip file (`hw6.zip`), which when uncompressed contains two versions of a database dump. You restore that database schema to your personal system by running:
 ```bash
-psql -f hw6.sql
+psql -d analysis -U username -f hw6_fast.sql
 ```
-from the terminal or command line. Doing so will automatically generate all the needed tables and relationships in a new `hw6` database on your local system. If this step is causing you any issues, _please reach out and let me know so that we can get things sorted out quickly_!
+from the terminal or command line. Doing so will automatically generate all the needed tables and relationships in a new `hw6` schema in your local `analysis` database. If this step is causing you any issues, _please reach out and let me know so that we can get things sorted out quickly_!
 
-Ensure that what you upload back to the repository for your submission includes both your answers to the questions, any necessary SQL commands for how you arrived at those answers, and your visualizations.
+Problems 1 and 2 have template files already included in this repository, and you would just need to additionally upload what images you create for Problem 2. Problem 3 will require you to upload both your final `Dockerfile` as well a screenshot of the resulting output when the image in run.
 
-Due date: March 3, 2022
+Due date: October 20, 2022
