@@ -7,4 +7,4 @@ from the terminal or command line. Doing so will automatically generate all the 
 
 Problems 1 and 2 have template files already included in this repository, and you would just need to additionally upload what images you create for Problem 2. Problem 3 will require you to upload both your final `Dockerfile` as well a screenshot of the resulting output when the image in run.
 
-Due date: October 20, 2022
+Due date: March 5, 2023
