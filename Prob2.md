@@ -1,6 +1,7 @@
 # Problem 2
 - List any other students you worked with:
 - About how long did you work on this problem?
+- ChatGPT conversation link (if used):
 
 
 ## Part A
