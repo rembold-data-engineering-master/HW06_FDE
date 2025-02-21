@@ -1,20 +1,12 @@
-# Problem 2
-- List any other students you worked with:
+# Problem 1
+- List of any other students you worked with:
 - About how long did you work on this problem?
 - ChatGPT conversation link (if used):
 
 
-## Part A
-**Answer:** Just upload your resulting image (and include the SQL you used below. If you did the visualization in R or Python, it would be great to include that code as well in another code cell!)
-```sql
+You just need to upload 3 images for this problem:
+- One for the table when in its first normal form
+- One for the tables in their second normal forms
+- One for the final set of tables in their third normal forms
 
-```
-
-## Part B
-**Question you are trying to answer:**  
-**Your findings:**  
-Don't forget to also upload your resulting visualization back to GitHub!
-```sql
-
-```
-
+Also ensure that you include primary and foreign keys where necessary.

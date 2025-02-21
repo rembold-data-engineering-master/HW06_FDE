@@ -6,24 +6,32 @@
 
 ## Part A
 **Answer:** 
+
+**Supporting SQL:**
 ```sql
 
 ```
 
 ## Part B
 **Answer:** 
+
+**Supporting SQL:**
 ```sql
 
 ```
 
 ## Part C
 **Answer:** 
+
+**Supporting SQL:**
 ```sql
 
 ```
 
 ## Part D
 **Answer:** 
+
+**Supporting SQL:**
 ```sql
 
 ```
